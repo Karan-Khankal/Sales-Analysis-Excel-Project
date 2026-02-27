@@ -52,9 +52,10 @@ To improve Vrinda Store sales:
 
 ## 📁 Project Structure
 ```
-Excel-Project/
+Sales-Analysis-Excel-Project/
 │── Vrinda Store Raw Data.xlsx
 │── Vrinda Store Data Analysis-Data cleaned.xlsx
+│── dashboard.png
 │── LICENSE
 │── README.md
 ```
