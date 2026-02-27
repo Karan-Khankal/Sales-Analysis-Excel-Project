@@ -49,13 +49,13 @@ To improve Vrinda Store sales:
 - Promote offers and coupons on **Amazon, Flipkart, and Myntra**  
 
 ## 📁 Project Structure
-
+```
 Excel-Project/
 │── Vrinda Store Raw Data.xlsx
 │── Vrinda Store Data Analysis-Data cleaned.xlsx
 │── LICENSE
 │── README.md
-
+```
 
 ## 🚀 Outcome
 This project demonstrates how Excel can be used for complete data analysis — from raw data cleaning to interactive reporting — and how insights can be translated into actionable business strategies.
