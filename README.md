@@ -4,6 +4,8 @@
 This project performs end-to-end sales data analysis for Vrinda Store using Microsoft Excel.  
 It includes raw data processing, data cleaning, pivot table analysis, chart creation, and a final report/dashboard to generate actionable business insights.
 
+![Dashboard Preview](dashboard.png)
+
 ## 🗂️ Dataset
 The repository contains:
 - Raw transactional sales data
